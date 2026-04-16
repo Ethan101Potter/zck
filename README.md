@@ -1,7 +1,3 @@
-# create-t3-turbo-ai
-
-## NOTE: THIS IS VERY MUCH 🚧 WIP 🚧. A lot of the features are yet to come - stay tuned!
-
 ## About
 
 The ultimate starter repo for building full-stack, type-safe, LLM-powered web apps. It uses:
